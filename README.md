@@ -1,4 +1,6 @@
 # UniverstyDiagram
+
+![Kodluyoruz Photo](universitydiagram.png)
 # Kodluyoruz İlk Repo 
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
