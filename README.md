@@ -1,7 +1,7 @@
 # UniverstyDiagram
 
-![Kodluyoruz Photo](universitydiagram.png)
-# Kodluyoruz İlk Repo 
+
+#  UniverstyDiagram 
 1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
 
 
@@ -18,6 +18,10 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
 
 Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
+
+# UniverstyDiagram
+
+![Kodluyoruz Photo](universitydiagram.png)
 
 ## Licence
 
